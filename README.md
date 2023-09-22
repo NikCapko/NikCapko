@@ -38,7 +38,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-g4qexcno5-nikcapko.vercel.app/api/top-langs?username=nikcapko&show_icons=true&locale=en&layout=compact" alt="nikcapko" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-g4qexcno5-nikcapko.vercel.app/api?username=nikcapko&show_icons=true&locale=en" alt="nikcapko" /></p>
+![](https://github-readme-stats-g4qexcno5-nikcapko.vercel.app/api/top-langs?username=nikcapko&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats-g4qexcno5-nikcapko.vercel.app/api?username=nikcapko&show_icons=true&locale=en)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikcapko)
