@@ -9,6 +9,7 @@
   
 - 🌍 I speak English (A1), German (A1)
 
+- 👨‍💻 My favorite project - [**Memo**](https://github.com/NikCapko/memo)
 
 ### Connect with me:
 <p align="left">
