@@ -17,6 +17,13 @@
 <a href="https://vk.com/nik.capko" target="blank"><img align="center" src="https://github.com/NikCapko/NikCapko/blob/5f2d571a18282296040a0f45ff3dca3c465be705/icons/vk.svg" alt="NikCapko" height="40" width="40" /></a>
 </p>
 
+### Open Source Contribution
+
+- [**pluto**](https://github.com/androidPluto/pluto) - [PR#235](https://github.com/androidPluto/pluto/pull/235)
+- [**kmm.icerock.dev**](https://github.com/icerockdev/kmm.icerock.dev) - [PR#155](https://github.com/icerockdev/kmm.icerock.dev/pull/155)
+- [**kotlin-fill-class**](https://github.com/suusan2go/kotlin-fill-class) - [PR#126](https://github.com/suusan2go/kotlin-fill-class/pull/126)
+- [**Group-File-Template-GFT**](https://github.com/Louco11/Group-File-Template-GFT) - [PR#4](https://github.com/Louco11/Group-File-Template-GFT/pull/4) [PR#5](https://github.com/Louco11/Group-File-Template-GFT/pull/5) [PR#6](https://github.com/Louco11/Group-File-Template-GFT/pull/6)
+
 ### Languages:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
