@@ -7,7 +7,7 @@
   
 - 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/colonel97)
   
-- 🌍 I speak English (A1), German (A1)
+- 🌍 I speak English (A2), German (A1)
 
 - 👨‍💻 My favorite project - [**Memo**](https://github.com/NikCapko/memo)
 
